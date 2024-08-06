@@ -8,7 +8,7 @@ Ideal for :
 Version 2 Updates :
 - In version 2 all the links mentioned in file are not opening in sequence.
 - added time interval of 3 seconds between each link and it magically works.
-- 
+
 Steps to use : Edit file and mention all the links you want to one by one in given format. Save the file with ".bat" extention. Double click to use this utility.
 
 Happy working...!
